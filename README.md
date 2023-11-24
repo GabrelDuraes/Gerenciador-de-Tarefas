@@ -11,4 +11,4 @@ O cronometro podendo ser utilizado para marcar um tempo de alguma tarefa quando 
 <h2>Pomodoro</h2>
 O pomodoro é um método de estudo feito apartir da organização do tempo, sendo 25 minutos de foco em sua tarefa e 5 minutos para uma pausa e descanso. Nele implementamos a função de pausa caso o usuario tenha algum imprevisto durante o estudo e não queira que seu tempo continue a contar e a funçao de resetar para que caso o usuario vá começar outra tarefa possa reinicia-lo.
 
-<h3><b>Participantes do projeto: </b><h3>Arthur Gomes de Souza, Arthur Reis  Gabriel da Silva Durães, Gabriel Gomes.
+<h3><b>Participantes do projeto: </b></h3>h3>Arthur Gomes de Souza, Arthur Reis  Gabriel da Silva Durães, Gabriel Gomes.
