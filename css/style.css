@@ -202,8 +202,12 @@ input {
     }
 }
 @media (max-width: 941px) {
-    .geral{
-        width: 80%;
+    #new-task-form{
+        justify-content: center;
+    }
+    #new-task-input{
+        align-items: center;
+        flex: 0.9 1 0%;
     }
     #new-task-submit{
         display: none;
@@ -214,5 +218,7 @@ input {
         font: bold;
         color: var(--cor-terciaria);
     }
-    
+    .task-header{
+        padding-left: 20px;
+    }
 }
