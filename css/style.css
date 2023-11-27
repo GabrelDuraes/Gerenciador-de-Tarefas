@@ -207,7 +207,7 @@ input {
     }
     #new-task-input{
         align-items: center;
-        flex: 0.9 1 0%;
+        width: 50%;
     }
     #new-task-submit{
         display: none;
