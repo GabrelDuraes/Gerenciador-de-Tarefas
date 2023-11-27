@@ -20,7 +20,7 @@
     grid-area: pomodoro;
 }
 
-@media(min-width: 872px) {
+@media(min-width: 720px) {
     .geral{
         display: grid;
         grid-template-areas: 
