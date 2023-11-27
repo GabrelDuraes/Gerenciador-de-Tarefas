@@ -203,7 +203,7 @@ input {
 }
 @media (max-width: 941px) {
     .geral{
-        width: 100%;
+        width: 80%;
     }
     #new-task-submit{
         display: none;
