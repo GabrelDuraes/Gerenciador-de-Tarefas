@@ -202,6 +202,9 @@ input {
     }
 }
 @media (max-width: 941px) {
+    .geral{
+        width: 100%;
+    }
     #new-task-submit{
         display: none;
     }
